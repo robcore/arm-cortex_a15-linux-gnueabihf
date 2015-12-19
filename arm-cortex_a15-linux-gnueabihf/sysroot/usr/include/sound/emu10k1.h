@@ -23,7 +23,8 @@
 #define __SOUND_EMU10K1_H
 
 #include <linux/types.h>
-#include <sound/asound.h>
+
+
 
 /*
  * ---- FX8010 ----
