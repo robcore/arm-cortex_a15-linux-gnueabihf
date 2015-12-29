@@ -2,13 +2,21 @@
 
 
 Optimized specifically for Cortex-A15 based processors
+
 Linux 3.10.93 Target
+
 Hardware floating point Enabled
+
 Neon FPU
+
 Libgomp
+
 Libquadmath
+
 Libsanitizer
+
 Graphite Support
+
 
 1. git clone this repo
 
