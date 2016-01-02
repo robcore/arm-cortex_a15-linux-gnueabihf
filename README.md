@@ -1,12 +1,28 @@
-# SkyDragon Compiled Toolchain Repository
+# SkyDragon compiled Linaro 5.2 Toolchain
 
 
-Optimized specifically for Cortex-A15 based processors
+*Built for Linux 3.10.93 
 
-1. git clone this repo
+*Binutils 2.25.1 
 
-2. use git checkout branch-name-here to switch between the different toolchains
+*glibc 2.22 
 
-3. ?????
+*Linaro-4.9-2015.06 
 
-4. profit
+*Libiconv 1.14 
+
+*gettext 0.19.6 
+
+*GMP 6.0.0a 
+
+*MPFR 3.1.3 
+
+*ISL 0.14 
+
+*MPC 1.0.3 
+
+*libelf 0.8.13 
+
+*expat 2.1.0 
+
+*ncurses 6.0 
