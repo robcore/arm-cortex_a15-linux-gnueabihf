@@ -1,27 +1,29 @@
-# SkyDragon Compiled Toolchain Repository
+# SkyDragon compiled Linaro 4.9.4 Toolchain
 
 
-Optimized specifically for Cortex-A15 based processors
+*Built for Linux 3.10.98 
 
-Linux 3.10.93 Target
+*Binutils 2.26 
 
-Hardware floating point Enabled
+*glibc 2.23 
 
-Neon FPU
+*Linaro-4.9-2016.02 
 
-Libgomp
+*Libiconv 1.14 
 
-Libquadmath
+*gettext 0.19.6 
 
-Libsanitizer
+*GMP 6.0.0a 
 
-Graphite Support
+*MPFR 3.1.3 
 
+*ISL 0.14 
 
-1. git clone this repo
+*MPC 1.0.3 
 
-2. use git checkout branch-name-here to switch between the different toolchains
+*libelf 0.8.13 
 
-3. ?????
+*expat 2.1.0 
 
-4. profit
+*ncurses 6.0 
+
